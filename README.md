@@ -1,5 +1,3 @@
-## Hello, World! 👋
-### Welcome to my GitHub!
 
 <div>
   <a href="https://github.com/VitorVilla">
