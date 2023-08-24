@@ -1,8 +1,8 @@
 
 <div>
   <a href="https://github.com/VitorVilla">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=VitorVilla&show_icons=true&theme=radical"> 
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVilla&layout=compact&theme=radical"
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=VitorVilla&show_icons=true&theme=dark"> 
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVilla&layout=compact&theme=dark"
 </div>
 <hr> 
     
