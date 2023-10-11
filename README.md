@@ -8,7 +8,7 @@
     
 <div>   
   <img alt="Java" width="40" height="30" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/java/java-original.svg"> 
-  <img alt="Python" width="40" height="30" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql.svgg"> 
+  <img alt="Python" width="40" height="30" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql.svg"> 
   <img alt="PHP" width="40" height="30" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/php/php-plain.svg"> 
    <img alt="C++" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
