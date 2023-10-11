@@ -8,7 +8,9 @@
     
 <div>   
   <img alt="Java" width="40" height="30" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/java/java-original.svg"> 
-  <img alt="Python" width="40" height="30" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql.svg"> 
+  <img alt="Spring" width="40" height="30" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/spring/spring-original.svg">
+  <img alt="PostgreSQL" width="40" height="30" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql/postgresql-original.svg">
+  <img alt="Docker" width="40" height="30" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/docker.svg"> 
   <img alt="PHP" width="40" height="30" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/php/php-plain.svg"> 
-   <img alt="C++" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img alt="C++" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
