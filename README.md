@@ -1,7 +1,7 @@
 
 <div>
   <a href="https://github.com/VitorVilla">
-  <img height="180em" src="https://github-readme-stats-vitorvillas-projects.vercel.app/api?username=VitorVilla&show_icons=false&theme=monokai&hide=issues&include_all_commits=true&show=prs_merged_percentage&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-vitorvillas-projects.vercel.app/api?username=VitorVilla&show_icons=true&theme=monokai&count_private=true&include_all_commits=true&show=prs_merged_percentage"/>
   <img height="180em" src="https://github-readme-stats-vitorvillas-projects.vercel.app/api/top-langs/?username=VitorVilla&layout=compact&langs_count=5&theme=monokai"/>
 </div>
 <hr> 
