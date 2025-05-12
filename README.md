@@ -1,7 +1,4 @@
-<div>
-  ![Status](./profile-3d-contrib/profile-gitblock.svg)
-</div>
-<hr> 
+![Status](./profile-3d-contrib/profile-gitblock.svg)
     
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
