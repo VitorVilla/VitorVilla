@@ -1,4 +1,10 @@
-![Status](./profile-3d-contrib/profile-gitblock.svg)
+
+<div>
+  <a href="https://github.com/VitorVilla">
+  <img height="180em" src="https://github-readme-stats-vitorvillas-projects.vercel.app/api?username=VitorVilla&show_icons=true&theme=monokai&hide=issues&include_all_commits=true&show=prs_merged_percentage&count_private"/>
+  <img height="180em" src="https://github-readme-stats-vitorvillas-projects.vercel.app/api/top-langs/?username=VitorVilla&layout=compact&theme=monokai&hide=javascript,html,css"/>
+</div>
+<hr> 
     
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
